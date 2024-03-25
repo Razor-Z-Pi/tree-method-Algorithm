@@ -1,0 +1,4 @@
+﻿  tree-method-Algorithm.cpp
+E:\C++\tree-method-Algorithm\tree-method-Algorithm.cpp(29,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+E:\C++\tree-method-Algorithm\tree-method-Algorithm.cpp(45): warning C4715: addnode: значение возвращается не при всех путях выполнения
+  tree-method-Algorithm.vcxproj -> E:\C++\tree-method-Algorithm\x64\Debug\tree-method-Algorithm.exe
